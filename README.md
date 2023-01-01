@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![iam149cm's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam149cm&show_icons=true&theme=radical)
+
 <!--
 **iam149cm/iam149cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
