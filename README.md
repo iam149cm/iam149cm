@@ -3,8 +3,8 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iam149cm&show_icons=true&theme=vue)
 
 <div id="skill_one">
-<h5>🏹 Skill set #1️⃣<h5>
-<p>I have carrer with these.</p>
+<h4>🏹 Skill set 1️⃣ 👉 I have carrer with these.<h4>
+
 <span>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>
@@ -16,17 +16,19 @@
 
 
 <div id="skill_two"> 
-<h5>🏹 Skill set #2️⃣</h5>
-<p>I've learned and used these at least once.</p>
+<h4>🏹 Skill set 2️⃣ 👉 I've learned and used these at least once. </h4>
  <span>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-#092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
  </span>
  
 </div>
+
+ <div></div>
+ 
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiam149cm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=+Thanks+for+visiting%21+%F0%9F%91%80%E2%9C%A8&edge_flat=false)](https://hits.seeyoufarm.com)
 
