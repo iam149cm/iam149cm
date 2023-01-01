@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=FFFFFF&height=100&section=header&text=Hello%20world!👋&fontSize=30&animation=fadeIn&&fontAlignY=30)
 
 <div align="center">
-![My GitHub stats 🤗 ](https://github-readme-stats.vercel.app/api?username=iam149cm&show_icons=true&theme=vue)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iam149cm&show_icons=true&theme=vue)
 
 
 🏹 Skill set #1️⃣
