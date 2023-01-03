@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=FFFFFF&height=100&section=header&text=Hello%20world!👋&fontSize=30&animation=fadeIn&&fontAlignY=30)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiam149cm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=+Thanks+for+visiting%21+%F0%9F%91%80%E2%9C%A8&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iam149cm&show_icons=true&theme=vue)
 
 <div id="skill_one">
@@ -27,12 +29,10 @@
  
 </div>
 
- <div> 
-   
- </div>
+
  
  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiam149cm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=+Thanks+for+visiting%21+%F0%9F%91%80%E2%9C%A8&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=70)
