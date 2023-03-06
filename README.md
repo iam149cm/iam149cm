@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=FFFFFF&height=100&section=header&text=Hello%20world!👋&fontSize=30&animation=fadeIn&&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&fontColor=FFFFFF&height=100&section=header&text=Annyeonghaseyo!👋&fontSize=30&animation=fadeIn&&fontAlignY=30)
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iam149cm&show_icons=true&theme=vue)
@@ -24,6 +24,9 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
  </span>
  
 </div>
